@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Google Books App Clone</string>
+    <string name="search">Search</string>
+    <string name="enter_the_book_name">Enter the book name</string>
+    <string name="image_of_the_book">Image of the book</string>
+</resources>

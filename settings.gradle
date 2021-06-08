@@ -1,0 +1,2 @@
+rootProject.name = "Google Books App Clone"
+include ':app'
