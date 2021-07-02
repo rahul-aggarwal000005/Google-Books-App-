@@ -1,5 +1,6 @@
 # Google Books Library App
-Demo of the app
+#### Demo of the app
+![demo](https://github.com/rahul-aggarwal000005/Google-Books-App-/blob/master/demo.gif)
 
 ## Installation
 Clone this repository and import into **Android Studio**
